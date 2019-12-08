@@ -31,7 +31,7 @@ Transform:
   m_GameObject: {fileID: 4097500945176184987}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 14.9, y: 0.768, z: 0}
-  m_LocalScale: {x: 0.49071652, y: 0.49071652, z: 0.49071652}
+  m_LocalScale: {x: 0.4907165, y: 0.4907165, z: 0.4907165}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -140,6 +140,7 @@ MonoBehaviour:
   ballSounds:
   - {fileID: 8300000, guid: bd54012fa1f00e34c806f0d683853554, type: 3}
   - {fileID: 8300000, guid: bd54012fa1f00e34c806f0d683853554, type: 3}
+  randomFactor: 0.5
 --- !u!82 &4097500944368310361
 AudioSource:
   m_ObjectHideFlags: 0
